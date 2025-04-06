@@ -1,0 +1,5 @@
+IP: 84.201.142.158;
+name_taski: https://taskiwork.ddnsking.com;
+name_kittygram: https://infrasprint1trial.myvnc.com;
+login: whoami;
+password: 747164235;
